@@ -1,0 +1,11 @@
+#22282A #Background
+#6CACAC #Comment
+#404F4F #Selection
+#F7F8F4 #Foreground
+#80FFEA #Cyan
+#8BFF80 #Green
+#FFC97F #Orange
+#FE80BF #Pink
+#9580FF #Purple
+#FF9480 #Red
+#FFFF80 #Yellow
