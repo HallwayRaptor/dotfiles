@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd
 #update
 sudo pacman -Syu
 
